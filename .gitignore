@@ -1,0 +1,20 @@
+# Root ignore
+.env
+.env.local
+.venv
+__pycache__/
+node_modules/
+dist/
+build/
+*.pdf
+*.docx
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+backend/data/results/*
+!backend/data/results/.gitkeep
+.gemini/
+.agents/
+.agent/
+_agents/
+_agent/
+brain/

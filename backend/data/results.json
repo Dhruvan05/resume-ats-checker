@@ -1,0 +1,188 @@
+[
+  {
+    "analysis_id": "local_664f95d0-59a1-40e3-8411-6572a812c57a",
+    "filename": "664f95d0-59a1-40e3-8411-6572a812c57a.pdf",
+    "role_id": "sde",
+    "overall_score": 81.25,
+    "breakdown": [
+      {
+        "name": "Skills Match",
+        "score": 66.7
+      },
+      {
+        "name": "Project Relevance",
+        "score": 95.0
+      },
+      {
+        "name": "Format",
+        "score": 90
+      }
+    ],
+    "skills": {
+      "matched": [
+        "data structures",
+        "java",
+        "javascript",
+        "git",
+        "rest api",
+        "sql",
+        "python",
+        "react"
+      ],
+      "missing": [
+        "c++",
+        "algorithms",
+        "typescript",
+        "fastapi"
+      ],
+      "jd_matched": [
+        "data structures",
+        "python",
+        "react"
+      ],
+      "jd_missing": [
+        "typescript",
+        "fastapi"
+      ]
+    },
+    "suggestions": [
+      {
+        "priority": "high",
+        "message": "Add missing keywords: c++, algorithms, typescript",
+        "icon": "\ud83c\udfaf"
+      },
+      {
+        "priority": "medium",
+        "message": "Quantify your impact with metrics (e.g., 'Reduced latency by 20%')",
+        "icon": "\ud83d\udcc8"
+      }
+    ],
+    "summary": "Analysis completed locally.",
+    "id": 1,
+    "created_at": "2026-03-23T15:38:45.413245"
+  },
+  {
+    "analysis_id": "local_82be2b2b-3467-4bf4-99fa-2fc829bcb26e",
+    "filename": "82be2b2b-3467-4bf4-99fa-2fc829bcb26e.pdf",
+    "role_id": "sde",
+    "overall_score": 81.25,
+    "breakdown": [
+      {
+        "name": "Skills Match",
+        "score": 66.7
+      },
+      {
+        "name": "Project Relevance",
+        "score": 95.0
+      },
+      {
+        "name": "Format",
+        "score": 90
+      }
+    ],
+    "skills": {
+      "matched": [
+        "sql",
+        "python",
+        "data structures",
+        "rest api",
+        "javascript",
+        "java",
+        "react",
+        "git"
+      ],
+      "missing": [
+        "algorithms",
+        "c++",
+        "typescript",
+        "fastapi"
+      ],
+      "jd_matched": [
+        "python",
+        "data structures",
+        "react"
+      ],
+      "jd_missing": [
+        "typescript",
+        "fastapi"
+      ]
+    },
+    "suggestions": [
+      {
+        "priority": "high",
+        "message": "Add missing keywords: algorithms, c++, typescript",
+        "icon": "\ud83c\udfaf"
+      },
+      {
+        "priority": "medium",
+        "message": "Quantify your impact with metrics (e.g., 'Reduced latency by 20%')",
+        "icon": "\ud83d\udcc8"
+      }
+    ],
+    "summary": "Analysis completed using weighted keyword matching system.",
+    "id": 2,
+    "created_at": "2026-03-23T15:42:04.781630"
+  },
+  {
+    "analysis_id": "local_49f1176c-aa85-40c0-9043-21f434588f20",
+    "filename": "49f1176c-aa85-40c0-9043-21f434588f20.pdf",
+    "role_id": "sde",
+    "overall_score": 75.5,
+    "breakdown": [
+      {
+        "name": "Skills Match",
+        "score": 50.0
+      },
+      {
+        "name": "Project Relevance",
+        "score": 100.0
+      },
+      {
+        "name": "Format",
+        "score": 90
+      }
+    ],
+    "skills": {
+      "matched": [
+        "sql",
+        "python",
+        "data structures",
+        "javascript",
+        "java",
+        "git"
+      ],
+      "missing": [
+        "algorithms",
+        "typescript",
+        "fastapi",
+        "rest api",
+        "c++",
+        "react"
+      ],
+      "jd_matched": [
+        "python",
+        "data structures"
+      ],
+      "jd_missing": [
+        "typescript",
+        "fastapi",
+        "react"
+      ]
+    },
+    "suggestions": [
+      {
+        "priority": "high",
+        "message": "Add missing keywords: algorithms, typescript, fastapi",
+        "icon": "\ud83c\udfaf"
+      },
+      {
+        "priority": "medium",
+        "message": "Quantify your impact with metrics (e.g., 'Reduced latency by 20%')",
+        "icon": "\ud83d\udcc8"
+      }
+    ],
+    "summary": "Analysis completed using weighted keyword matching system.",
+    "id": 3,
+    "created_at": "2026-03-23T15:43:12.420109"
+  }
+]

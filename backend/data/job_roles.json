@@ -1,0 +1,30 @@
+{
+  "sde": {
+    "title": "Software Development Engineer",
+    "required_skills": ["python", "java", "javascript", "c++", "data structures", "algorithms", "sql", "git", "rest api"],
+    "preferred_skills": ["aws", "docker", "kubernetes", "linux", "agile", "nosql"],
+    "dsa_keywords": ["arrays", "linked lists", "trees", "graphs", "dynamic programming", "sorting"],
+    "project_keywords": ["designed", "built", "optimized", "scaled", "system", "architecture"]
+  },
+  "frontend": {
+    "title": "Frontend Developer",
+    "required_skills": ["javascript", "typescript", "react", "html", "css", "git", "rest api"],
+    "preferred_skills": ["next.js", "vue", "tailwind", "redux", "jest", "webpack", "figma"],
+    "dsa_keywords": ["arrays", "hashing", "strings", "sliding window"],
+    "project_keywords": ["ui", "ux", "responsive", "accessible", "interactive", "component"]
+  },
+  "backend": {
+    "title": "Backend Developer",
+    "required_skills": ["python", "java", "node.js", "sql", "rest api", "git", "postgresql"],
+    "preferred_skills": ["docker", "kubernetes", "aws", "gcp", "redis", "mongodb", "graphql"],
+    "dsa_keywords": ["graphs", "trees", "dynamic programming", "hashing"],
+    "project_keywords": ["api", "database", "microservices", "latency", "throughput", "scaled"]
+  },
+  "data_engineer": {
+    "title": "Data Engineer",
+    "required_skills": ["python", "sql", "spark", "hadoop", "etl", "data warehousing"],
+    "preferred_skills": ["aws", "airflow", "kafka", "snowflake", "scala", "nosql"],
+    "dsa_keywords": ["arrays", "hashing", "sorting"],
+    "project_keywords": ["pipeline", "dataset", "analytics", "transformed", "extracted"]
+  }
+}

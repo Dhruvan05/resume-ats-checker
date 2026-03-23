@@ -1,0 +1,39 @@
+{
+  "python": { "aliases": ["python3", "py", "python 3"], "category": "language" },
+  "java": { "aliases": ["java 8", "java 11", "j2ee", "spring boot"], "category": "language" },
+  "javascript": { "aliases": ["js", "es6", "ecmascript"], "category": "language" },
+  "typescript": { "aliases": ["ts"], "category": "language" },
+  "c++": { "aliases": ["cpp", "c/c++"], "category": "language" },
+  "c#": { "aliases": ["csharp", ".net", "dotnet"], "category": "language" },
+  "golang": { "aliases": ["go", "google go"], "category": "language" },
+  "rust": { "aliases": ["rustlang"], "category": "language" },
+  "sql": { "aliases": ["mysql", "postgresql", "oracle", "sql server", "sqlite"], "category": "language" },
+  "html": { "aliases": ["html5"], "category": "language" },
+  "css": { "aliases": ["css3", "sass", "less", "tailwind"], "category": "language" },
+  
+  "react": { "aliases": ["reactjs", "react.js", "react native", "next.js", "nextjs"], "category": "framework" },
+  "angular": { "aliases": ["angularjs", "angular.js"], "category": "framework" },
+  "vue": { "aliases": ["vuejs", "vue.js", "nuxt"], "category": "framework" },
+  "node.js": { "aliases": ["nodejs", "node", "express"], "category": "framework" },
+  "django": { "aliases": ["django rest framework", "drf"], "category": "framework" },
+  "flask": { "aliases": [], "category": "framework" },
+  "fastapi": { "aliases": [], "category": "framework" },
+  "tensorflow": { "aliases": ["tf", "keras"], "category": "framework" },
+  "pytorch": { "aliases": ["torch"], "category": "framework" },
+
+  "aws": { "aliases": ["amazon web services", "ec2", "s3", "lambda", "cloudfront"], "category": "cloud" },
+  "azure": { "aliases": ["microsoft azure"], "category": "cloud" },
+  "gcp": { "aliases": ["google cloud", "google cloud platform", "firebase"], "category": "cloud" },
+
+  "docker": { "aliases": ["docker compose", "containerization"], "category": "tool" },
+  "kubernetes": { "aliases": ["k8s", "helm"], "category": "tool" },
+  "git": { "aliases": ["github", "gitlab", "bitbucket", "version control"], "category": "tool" },
+  "jenkins": { "aliases": ["ci/cd", "continuous integration"], "category": "tool" },
+  "terraform": { "aliases": ["iac", "infrastructure as code"], "category": "tool" },
+
+  "data structures": { "aliases": ["dsa", "algorithms"], "category": "concept" },
+  "rest api": { "aliases": ["restful", "rest", "restful api", "api design"], "category": "concept" },
+  "microservices": { "aliases": ["distributed systems"], "category": "concept" },
+  "machine learning": { "aliases": ["ml", "deep learning", "nlp", "computer vision"], "category": "concept" },
+  "agile": { "aliases": ["scrum", "kanban"], "category": "concept" }
+}
