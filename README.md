@@ -2,7 +2,6 @@
 
 A premium, local-first Applicant Tracking System (ATS) analyzer built with **React** and **FastAPI**. This tool helps developers and job seekers optimize their resumes by matching them against specific job roles and custom Job Descriptions (JDs) using a robust keyword-matching engine.
 
-![Hero Image](frontend/src/assets/hero.png)
 
 ## ✨ Features
 
